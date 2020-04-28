@@ -1,0 +1,13 @@
+/* Add application styles & imports to this file! */
+nav{
+  background-color: #2A2685
+}
+
+.site-logo{
+  width: 168px;
+  height: 41px;
+}
+
+.navbar-toggler:focus{
+  outline: none;
+}
